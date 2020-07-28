@@ -4,6 +4,7 @@
 }
 
 :root {
+  background: var(--black);
   --primary: #2A7AE4;
   --black: #000000;
   --blackLighter: #9E9E9E;
