@@ -2,16 +2,16 @@ import React from 'react';
 import PageDefault from '../../components/PageDefault';
 import './index.css';
 
-function page404(){
-    return(
+function page404() {
+    return (
         <>
             <PageDefault>
                 <div className="page404">
                     <h1> 404 - Page Not Found</h1>
                     <p>Acho que não é o que procura, mas temos Flappy Bird</p>
-                    <iframe 
+                    <iframe
                         src="https://mariosouto.com/flappy-bird-devsoutinho/"
-                        title = "FlappyBirdGame"
+                        title="FlappyBirdGame"
                         scrolling="no"
                         style={{
                             width: 340,

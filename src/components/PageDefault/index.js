@@ -13,13 +13,13 @@ const Main = styled.main`
 `;
 
 
-function PageDefault({ children }){
+function PageDefault({ children }) {
     return (
         <>
             <Menu />
-                <Main>
-                    {children}
-                </Main>
+            <Main>
+                {children}
+            </Main>
             <Footer />
         </>
     );
