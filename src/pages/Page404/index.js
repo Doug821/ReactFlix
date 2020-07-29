@@ -10,7 +10,7 @@ function page404(){
                     <h1> 404 - Page Not Found</h1>
                     <p>Acho que não é o que procura, mas temos Flappy Bird</p>
                     <iframe 
-                        src="https://mariosouto.com/flappy-bird-devsoutinho"
+                        src="https://mariosouto.com/flappy-bird-devsoutinho/"
                         title = "FlappyBirdGame"
                         scrolling="no"
                         style={{
